@@ -67,9 +67,7 @@ BankTransactionAnalyzerSimples/
 │── Scratches and Consoles/     # Código temporário e testes
 
 
-
-> Obs: O arquivo `BankStatementCSVParser.java` foi removido por correção e simplificação da lógica.
-
+##
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
