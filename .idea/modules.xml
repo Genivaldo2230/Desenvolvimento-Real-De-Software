@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BnakTransactionAnalyzerSimples.iml" filepath="$PROJECT_DIR$/BnakTransactionAnalyzerSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BankTransactionAnalyzerSimples.iml" filepath="$PROJECT_DIR$/BankTransactionAnalyzerSimples.iml" />
     </modules>
   </component>
 </project>

@@ -21,6 +21,6 @@ public class BankStantementCSVParser {
             for(final String line: lines){
                 bankTransaction.add(parseFromCSV(line));
         }
-        return bankTransaction;
+        return bankTransaction
     }
 }
