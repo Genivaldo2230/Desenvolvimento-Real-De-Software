@@ -65,8 +65,7 @@ BankTransactionAnalyzerSimples/
 │── README.md                  # Documentação do projeto
 │── External Libraries/         # Dependências externas
 │── Scratches and Consoles/     # Código temporário e testes
-
-
+...
 
 > Obs: O arquivo `BankStatementCSVParser.java` foi removido por correção e simplificação da lógica.
 
