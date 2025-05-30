@@ -55,4 +55,8 @@ O projeto tem como objetivo reforçar práticas de desenvolvimento orientado a o
 
 ## 🧾 Licença
 
+<<<<<<< HEAD
 Este projeto é livre para fins educacionais e de estudo.
+=======
+Este projeto é livre para fins educacionais e de estudo.
+>>>>>>> 57094bc46661c103f94d846122f8bffbaf7f8c74
