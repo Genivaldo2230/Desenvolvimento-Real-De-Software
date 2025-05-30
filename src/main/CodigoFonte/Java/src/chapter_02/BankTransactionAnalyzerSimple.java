@@ -1,6 +1,6 @@
 // Declara o pacote onde esta classe está localizada.
 // Isso organiza o código e evita conflitos com outras classes com o mesmo nome.
-package main.java.com.bank;
+package main.CodigoFonte.Java.src.chapter_02;
 
 import java.io.IOException;                    // Importa classe para tratar exceções de I/O (leitura de arquivos, etc.)
 import java.nio.file.Files;                   // Classe utilitária para manipulação de arquivos e diretórios
@@ -11,7 +11,7 @@ import java.util.List;                        // Interface para representar list
 public class BankTransactionAnalyzerSimple {  // Declaração da classe principal do programa
 
     // Constante que representa o caminho da pasta onde o arquivo CSV está localizado.
-    private static final String RESOURCES = "src/main/resources/";
+    private static final String RESOURCES = "src/main/codigoFonte/java/resources/";
 
     // Método principal - ponto de entrada da aplicação
     public static void main(String[] args) throws IOException {

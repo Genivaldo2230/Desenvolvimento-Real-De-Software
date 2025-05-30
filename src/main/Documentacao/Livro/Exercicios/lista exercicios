@@ -1,0 +1,17 @@
+LISTA DE EXERCICOS CODADOS
+
+LINGUAGEM JAVA
+
+PRINCIPIO D RESPONSABILDADE UNICA
+
+( SRP )
+
+1 -  Crie uma classe chamada "BankTransactionAnalyzerSimples"
+
+        exercicio  2-1 Calcular a soma de todos os extratos;
+        exercicio  2-2 Calcular a soma dos os extratos de january;
+        exercicio  2-3 Extraido a Lógica de Análise para uma calsse separada;
+        exercicio  2-4 Umas classe de dominio para uma tranção banacaria; // get & set
+        exercicio  2-5 Usando Parser de CSV do Extrato bancário;
+        exercicio  2-6 Processando Lista de transações bancárias;
+        exercicio  2-7 Agrupando as operações de cálculo na classe " BankStatementProcessor ";

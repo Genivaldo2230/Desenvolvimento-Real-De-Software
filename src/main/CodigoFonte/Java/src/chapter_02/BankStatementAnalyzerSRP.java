@@ -1,4 +1,4 @@
-package main.java.com.bank;
+package main.CodigoFonte.Java.src.chapter_02;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,7 +11,8 @@ import java.util.stream.Collectors;
 
 public class BankStatementAnalyzerSRP {
 
-    private static final String RESOURCES = "src/main/resources/";
+    private static final String RESOURCES = "src/main/codigoFonte/java/resources/";
+
 
     public static void main(final String[] args) throws IOException {
 

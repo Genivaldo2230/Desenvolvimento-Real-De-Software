@@ -1,4 +1,4 @@
-package main.java.com.bank;
+package main.CodigoFonte.Java.src.chapter_02;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -11,7 +11,7 @@ import java.util.List;
 
 public class BankStatementAnalyzerProblematic {
 
-    private static final String RESOURCES = "src/main/resources/";
+    private static final String RESOURCES = "src/main/codigoFonte/java/resources/";
 
         public static  final DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 
