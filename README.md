@@ -33,12 +33,7 @@ Este projeto simula um **Analisador de Transações Bancárias**, desenvolvido c
 - Git
 - IntelliJ IDEA (recomendado)
 - Paradigma de programação orientado a objetos (OOP)
-## Fluxos - Trabalho
 
-![Fluxo de Trabalho - BankTransactionAnalyzerSimples](https://github.com/user-attachments/assets/87209a1f-7e41-4cea-88ab-f40e399304b9)
-
-
-##
 ## 📁 Estrutura do Projeto
 
 BankTransactionAnalyzerSimples/
@@ -65,16 +60,14 @@ BankTransactionAnalyzerSimples/
 │── README.md                  # Documentação do projeto
 │── External Libraries/         # Dependências externas
 │── Scratches and Consoles/     # Código temporário e testes
-<<<<<<< HEAD
+
+
+## Fluxos - Trabalho
+
+![Fluxo de Trabalho - BankTransactionAnalyzerSimples](https://github.com/user-attachments/assets/87209a1f-7e41-4cea-88ab-f40e399304b9)
 
 
 ##
-=======
-...
-
-> Obs: O arquivo `BankStatementCSVParser.java` foi removido por correção e simplificação da lógica.
-
->>>>>>> 0100c8c897f89b4824fdde1a4caed3a692ba67d8
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
